@@ -1,0 +1,1 @@
+Print("fuck-this-world")
